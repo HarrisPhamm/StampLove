@@ -1,0 +1,6 @@
+{
+  "name": "Stamp Love",
+  "description": "Biến hình ảnh của bạn thành những con tem độc đáo nghệ thuật và phân loại, sưu tầm cực khoa học.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

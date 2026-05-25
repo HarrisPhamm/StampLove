@@ -1,0 +1,76 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer Off-White Cream Stamp Paper backing with detailed serrated postage edges -->
+    <path
+        android:fillColor="#FCF7ED"
+        android:pathData="M24,24 h60 v60 h-60 z" />
+
+    <!-- Punch out scalloped round teeth holes on the borders for realism -->
+    <path
+        android:fillColor="#1E3A5F"
+        android:pathData="M 24,24
+                          m -4,6 a 4,4 0 1,0 8,0 a 4,4 0 1,0 -8,0
+                          m 0,10 a 4,4 0 1,0 8,0 a 4,4 0 1,0 -8,0
+                          m 0,10 a 4,4 0 1,0 8,0 a 4,4 0 1,0 -8,0
+                          m 0,10 a 4,4 0 1,0 8,0 a 4,4 0 1,0 -8,0
+                          m 0,10 a 4,4 0 1,0 8,0 a 4,4 0 1,0 -8,0
+                          m 0,10 a 4,4 0 1,0 8,0 a 4,4 0 1,0 -8,0" />
+
+    <path
+        android:fillColor="#1E3A5F"
+        android:pathData="M 84,24
+                          m -4,6 a 4,4 0 1,0 8,0 a 4,4 0 1,0 -8,0
+                          m 0,10 a 4,4 0 1,0 8,0 a 4,4 0 1,0 -8,0
+                          m 0,10 a 4,4 0 1,0 8,0 a 4,4 0 1,0 -8,0
+                          m 0,10 a 4,4 0 1,0 8,0 a 4,4 0 1,0 -8,0
+                          m 0,10 a 4,4 0 1,0 8,0 a 4,4 0 1,0 -8,0
+                          m 0,10 a 4,4 0 1,0 8,0 a 4,4 0 1,0 -8,0" />
+
+    <path
+        android:fillColor="#1E3A5F"
+        android:pathData="M 24,24
+                          m 6,-4 a 4,4 0 1,0 0,8 a 4,4 0 1,0 0,-8
+                          m 10,0 a 4,4 0 1,0 0,8 a 4,4 0 1,0 0,-8
+                          m 10,0 a 4,4 0 1,0 0,8 a 4,4 0 1,0 0,-8
+                          m 10,0 a 4,4 0 1,0 0,8 a 4,4 0 1,0 0,-8
+                          m 10,0 a 4,4 0 1,0 0,8 a 4,4 0 1,0 0,-8" />
+
+    <path
+        android:fillColor="#1E3A5F"
+        android:pathData="M 24,84
+                          m 6,-4 a 4,4 0 1,0 0,8 a 4,4 0 1,0 0,-8
+                          m 10,0 a 4,4 0 1,0 0,8 a 4,4 0 1,0 0,-8
+                          m 10,0 a 4,4 0 1,0 0,8 a 4,4 0 1,0 0,-8
+                          m 10,0 a 4,4 0 1,0 0,8 a 4,4 0 1,0 0,-8
+                          m 10,0 a 4,4 0 1,0 0,8 a 4,4 0 1,0 0,-8" />
+
+    <!-- Inner Stamp Vignette Border (Postage Green Accent) -->
+    <path
+        android:fillColor="#4A7C59"
+        android:pathData="M29,29 h50 v50 h-50 z" />
+
+    <!-- Pure white frame separating details -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M31,31 h46 v46 h-46 z" />
+
+    <!-- Filled Camera Vector as the Stamp's subject -->
+    <path
+        android:fillColor="#A31D1D"
+        android:pathData="M54,42 c-1.2,0 -2,0.8 -2.4,1.8 L50,47 H44 c-2.2,0 -4,1.8 -4,4 v18 c0,2.2 1.8,4 4,4 h20 c2.2,0 4,-1.8 4,-4 V51 c0,-2.2 -1.8,-4 -4,-4 h-6 l-1.6,-3.2 C56,42.8 55.2,42 54,42 z M54,52 c4.4,0 8,3.6 8,8 s-3.6,8 -8,8 s-8,-3.6 -8,-8 S49.6,52 54,52 z" />
+
+    <!-- Camera Lens glass highlight -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,55 c2.8,0 5,2.2 5,5 s-2.2,5 -5,5 s-5,-2.2 -5,-5 S51.2,55 54,55 z" />
+
+    <!-- Small country mark text vector (decorations) -->
+    <path
+        android:fillColor="#1E3A5F"
+        android:pathData="M34,35 h6 v2 h-6 z M34,39 h10 v1.5 h-10 z" />
+
+</vector>
